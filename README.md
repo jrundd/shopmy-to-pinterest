@@ -1,1 +1,0 @@
-# shopmy-to-pinterest
